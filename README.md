@@ -1,4 +1,4 @@
-# GitHub Advanced Markdown Cheatsheet
+# GitHub Advanced Markdown
 
 This document demonstrates advanced features supported by GitHub's Markdown renderer.
 
